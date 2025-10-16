@@ -371,13 +371,13 @@ void customfractal()
 void loadpresets()
 {
     std::cout << "1. Serpinski triangle [8]" <<std::endl;
-    std::cout << "2. kis haromszogek [10]" <<std::endl;
-    std::cout << "3. oneline [5]" <<std::endl;
-    std::cout << "4. csiga [5]" <<std::endl;
-    std::cout << "5. virag1 [5]" <<std::endl;
-    std::cout << "6. virag2 [5]" <<std::endl;
-    std::cout << "7. bug negyzet" <<std::endl;
-    std::cout << "8. gilbert" <<std::endl;
+    std::cout << "2. Small Triangles [10]" <<std::endl;
+    std::cout << "3. Oneline [5]" <<std::endl;
+    std::cout << "4. Snail [5]" <<std::endl;
+    std::cout << "5. Flower 1 [5]" <<std::endl;
+    std::cout << "6. Flower 2 [5]" <<std::endl;
+    std::cout << "7. Frost" <<std::endl;
+    std::cout << "8. Gilbert" <<std::endl;
     std::cout << "9. Board" <<std::endl;
     
     int choice;
